@@ -22,12 +22,12 @@
   },
   "dependencies": {
     "debug": "2",
-    "ref": "1"
+    "ref": "github:cihansari/ref"
   },
   "devDependencies": {
     "bindings": "~1.2.0",
-    "nan": "2",
     "mocha": "*",
-    "ref-array": "~1.1.2"
+    "nan": "^2.14.0",
+    "ref-array": "github:cihansari/ref-array"
   }
 }
